@@ -1,0 +1,25 @@
+.skills h1{
+color: purple;
+display: flex;
+justify-content: center;
+font-family: 'Caveat', cursive;
+font-family: 'Dai Banna SIL', serif;
+font-family: 'Shadows Into Light', cursive
+}
+.all-imgs {
+    margin-left: 15px;
+}
+.box {
+    justify-content:center;
+}
+.me h1{
+color: green;
+display: flex;
+justify-content: center;
+font-family: 'Caveat', cursive;
+font-family: 'Dai Banna SIL', serif;
+font-family: 'Lobster', cursive;
+font-family: 'Shadows Into Light', cursive;
+
+}
+
